@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-intelsecurity",
+  "version": "1.0.0",
+  "description": "App Security API plugin",
+  "cordova": {
+    "id": "cordova-plugin-intelsecurity",
+    "platforms": [
+      "android",
+      "ios",
+      "windows8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobigaurav/cordova-plugin-intelsecurity.git"
+  },
+  "keywords": [
+    "Intel",
+    "intel.security",
+    "intel.security.Services",
+    "Security Services",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows8",
+    "cordova-windows"
+  ],
+  "author": "Gaurav Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobigaurav/cordova-plugin-intelsecurity/issues"
+  },
+  "homepage": "https://github.com/mobigaurav/cordova-plugin-intelsecurity#readme"
+}
